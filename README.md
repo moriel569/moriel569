@@ -39,4 +39,4 @@
 [petProject]: https://github.com/moriel569/geoweatherapp
 [telegram]: https://t.me/PavelMGP
 [facebook]: https://www.facebook.com/foodisgood.pavel
-[linkedin]: https://wwww.linkedin.com/in/Pavel-Sorokin85
+[linkedin]: https://www.linkedin.com/in/pavel-sorokin85/
