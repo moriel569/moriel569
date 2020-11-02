@@ -1,16 +1,10 @@
 ### Hi, I'm a Junior Frontend Developer 👋
 
-<!--
-**moriel569/moriel569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I just fnished my first ReactNative pet project [Geo Weather App][https://github.com/moriel569/geoweatherapp] !
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking for mentor and cool team
 - :man_student: Next Goal: TypeScript
 - :mechanical_arm: Ready to hardwork
--->
 
 <br />
 
