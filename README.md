@@ -1,6 +1,6 @@
 ### Hi, I'm a Junior Frontend Developer 👋
 
-- 🔭 I just fnished my first ReactNative pet project [Geo Weather App][https://github.com/moriel569/geoweatherapp] !
+- 🔭 I just fnished my first ReactNative pet project [Geo Weather App][petProject] !
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking for mentor and cool team
 - :man_student: Next Goal: TypeScript
@@ -36,6 +36,7 @@
 <br />
 <br />
 
+[petProject]: https://github.com/moriel569/geoweatherapp
 [telegram]: https://t.me/PavelMGP
 [facebook]: https://www.facebook.com/foodisgood.pavel
 [linkedin]: https://wwww.linkedin.com/in/Pavel-Sorokin85
