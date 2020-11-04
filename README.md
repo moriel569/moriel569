@@ -5,7 +5,7 @@
 - 👯 I’m looking for mentor and cool team
 - :man_student: Next Goal: TypeScript
 - :mechanical_arm: Ready to hardwork
-- :books: I’m currently reading ("Grokking Algorithms")("https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/")
+- :books: I’m currently reading ("Grokking Algorithms")["https://www.oreilly.com/library/view/grokking-algorithms/9781617292231/"]
 
 <br />
 
