@@ -1,13 +1,4 @@
-### Hi, I'm a Junior Frontend Developer 👋
 
-- 🔭 I just fnished my first ReactNative pet project [Geo Weather App][petProject] !
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking for mentor and cool team
-- :man_student: Next Goal: TypeScript
-- :mechanical_arm: Ready to hardwork
-- :books: I’m currently reading [Grokking Algorithms][readingNow]
-
-<br />
 
 ### My contacts:
 
